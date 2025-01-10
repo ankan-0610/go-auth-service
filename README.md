@@ -10,6 +10,7 @@
 ## Recommended Prerequisites
 
 Replace the accessTokenDuration in main.go with your preferred duration, for testing purposes.
+
 Replace the SECRET_KEY in the docker-compose.yml file, with your own secure key
 
 ## Run the auth-service
